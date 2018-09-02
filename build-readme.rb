@@ -17,7 +17,7 @@ template = <<-EOF
 <% tshirts.each do |tshirt| %>
 ## <%= tshirt["name"] %>
 
-<img src="<%= tshirt["image_url"] %>" style="display: block;height: auto;width: 100%;"/>
+<img src="<%= tshirt["image_url"] %>" />
 <% end %>
 EOF
 
