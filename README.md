@@ -31,10 +31,9 @@
 
 <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2i0z1Y0v0j172R3m1L0Z/Image%202018-08-29%20at%208.37.16%20AM.png" style="display: block;height: auto;width: 100%;"/>
 
-
 ## More than ever, be kind
 
-<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3o3F1Y2U2W1C2x0d2N0o/Image%202018-08-29%20at%208.33.13%20AM.png"  style="display: block;height: auto;width: 100%;"/>
+<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3o3F1Y2U2W1C2x0d2N0o/Image%202018-08-29%20at%208.33.13%20AM.png" style="display: block;height: auto;width: 100%;"/>
 
 ## Project Include
 
@@ -43,3 +42,4 @@
 ## No bad days
 
 <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/1u2v090o3u2b2S1X303v/Image%202018-08-29%20at%208.36.36%20AM.png" style="display: block;height: auto;width: 100%;"/>
+
