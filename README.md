@@ -1,6 +1,6 @@
 # wears-t-shirts
 
-* Empathy, kindess, respect
+* Empathy, kindness, respect
 * Feminist
 * Pride over prejudice
 * Made by Immigrants
@@ -14,7 +14,7 @@
 
 ---
 
-## Empathy, kindess, respect
+## Empathy, kindness, respect
 
 Sara McNally
 
