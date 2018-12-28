@@ -1,7 +1,7 @@
   {
   "tshirts": [
     {
-      "name": "Empathy, kindess, respect",
+      "name": "Empathy, kindness, respect",
       "creator": "Sara McNally",
       "image_url": "https://d3vv6lp55qjaqc.cloudfront.net/items/200T1r0W2B1o1e091w3D/Image%202018-08-29%20at%208.31.50%20AM.png",
       "link_url": "https://cottonbureau.com/products/empathy-kindness-respect"
@@ -43,10 +43,28 @@
       "link_url": "https://cottonbureau.com/products/project-include-the-question-tee"
     },
     {
-      "name": "No bad days",
-      "creator": "Michael Buchino",
-      "image_url": "https://d3vv6lp55qjaqc.cloudfront.net/items/1u2v090o3u2b2S1X303v/Image%202018-08-29%20at%208.36.36%20AM.png",
-      "link_url": "https://cottonbureau.com/products/no-bad-days"
+      "name": "Equality Logo",
+      "creator": "Human Rights Campaign",
+      "image_url": "https://cl.ly/d823384c9d4a/Image%2525202018-12-15%252520at%2525208.10.54%252520PM.png",
+      "link_url": "https://shop.hrc.org/clothing/t-shirts/equality-t-shirt.html"
+    },
+    {
+      "name": "Keep Showing Up",
+      "creator": "Charles Dew",
+      "image_url": "https://cl.ly/cc9a484a8efb/Image%2525202018-12-27%252520at%2525208.06.28%252520PM.png",
+      "link_url": "https://cottonbureau.com/products/keep-showing-up"
+    },
+    {
+      "name": "When They Go Low...",
+      "creator": "Clarissa Hernandez",
+      "image_url": "https://cl.ly/de76ecee6cec/Image%2525202018-12-27%252520at%2525208.04.52%252520PM.png",
+      "link_url": "https://cottonbureau.com/products/when-they-go-low"
+    },
+    {
+      "name": "IRL Winning",
+      "creator": "Shannon Miwa",
+      "image_url": "https://cl.ly/43a9c3c94db5/Image%2525202018-12-27%252520at%2525208.09.30%252520PM.png",
+      "link_url": "https://cottonbureau.com/products/irl-winning"
     }
   ]
 }

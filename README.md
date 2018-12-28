@@ -1,17 +1,20 @@
 # wears-t-shirts
 
-* Empathy, kindess, respect
+* Empathy, kindness, respect
 * Feminist
 * Pride over prejudice
 * Made by Immigrants
 * You are enough
 * More than ever, be kind
 * Project Include
-* No bad days
+* Equality Logo
+* Keep Showing Up
+* When They Go Low...
+* IRL Winning
 
 ---
 
-## Empathy, kindess, respect
+## Empathy, kindness, respect
 
 Sara McNally
 
@@ -67,11 +70,35 @@ Project Include
   <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2p1U2G2I3O2k3d3q400Y/Image%202018-08-29%20at%208.32.40%20AM.png" width="200" height="200" />
 </a>
 
-## No bad days
+## Equality Logo
 
-Michael Buchino
+Human Rights Campaign
 
-<a href="https://cottonbureau.com/products/no-bad-days" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/1u2v090o3u2b2S1X303v/Image%202018-08-29%20at%208.36.36%20AM.png" width="200" height="200" />
+<a href="https://shop.hrc.org/clothing/t-shirts/equality-t-shirt.html" alt="Buy Now">
+  <img src="https://cl.ly/d823384c9d4a/Image%2525202018-12-15%252520at%2525208.10.54%252520PM.png" width="200" height="200" />
+</a>
+
+## Keep Showing Up
+
+Charles Dew
+
+<a href="https://cottonbureau.com/products/keep-showing-up" alt="Buy Now">
+  <img src="https://cl.ly/cc9a484a8efb/Image%2525202018-12-27%252520at%2525208.06.28%252520PM.png" width="200" height="200" />
+</a>
+
+## When They Go Low...
+
+Clarissa Hernandez
+
+<a href="https://cottonbureau.com/products/when-they-go-low" alt="Buy Now">
+  <img src="https://cl.ly/de76ecee6cec/Image%2525202018-12-27%252520at%2525208.04.52%252520PM.png" width="200" height="200" />
+</a>
+
+## IRL Winning
+
+Shannon Miwa
+
+<a href="https://cottonbureau.com/products/irl-winning" alt="Buy Now">
+  <img src="https://cl.ly/43a9c3c94db5/Image%2525202018-12-27%252520at%2525208.09.30%252520PM.png" width="200" height="200" />
 </a>
 
