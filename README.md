@@ -21,6 +21,7 @@ wearing is visible if I am speaking publicly or interviewing someone.
 * Keep Showing Up
 * When They Go Low...
 * IRL Winning
+* i believe in you
 
 ---
 
@@ -110,5 +111,13 @@ Shannon Miwa
 
 <a href="https://cottonbureau.com/products/irl-winning" alt="Buy Now">
   <img src="https://cl.ly/43a9c3c94db5/Image%2525202018-12-27%252520at%2525208.09.30%252520PM.png" width="200" height="200" />
+</a>
+
+## i believe in you
+
+Kristen Ware
+
+<a href="https://cottonbureau.com/products/i-believe-in-you-white" alt="Buy Now">
+  <img src="https://cl.ly/dfba6bc0c1ba/%255B4b0a1dda56c03c5baaf39d1326d722c7%255D_t-shirt-i-believe-in-you.png" width="200" height="200" />
 </a>
 
