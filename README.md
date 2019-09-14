@@ -22,6 +22,7 @@ wearing is visible if I am speaking publicly or interviewing someone.
 * When They Go Low...
 * IRL Winning
 * i believe in you
+* Accessibility Pride
 
 ---
 
@@ -119,5 +120,13 @@ Kristen Ware
 
 <a href="https://cottonbureau.com/products/i-believe-in-you-white" alt="Buy Now">
   <img src="https://cl.ly/dfba6bc0c1ba/%255B4b0a1dda56c03c5baaf39d1326d722c7%255D_t-shirt-i-believe-in-you.png" width="200" height="200" />
+</a>
+
+## Accessibility Pride
+
+Robert Jolly
+
+<a href="https://cottonbureau.com/products/accessibility-pride" alt="Buy Now">
+  <img src="https://cl.ly/5de77e648e69/Image%2525202019-08-31%252520at%2525201.43.33%252520PM.png" width="200" height="200" />
 </a>
 
