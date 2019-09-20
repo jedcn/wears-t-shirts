@@ -23,6 +23,8 @@ wearing is visible if I am speaking publicly or interviewing someone.
 * IRL Winning
 * i believe in you
 * Accessibility Pride
+* Progression Over Perfection
+* Action Cures Fear
 
 ---
 
@@ -128,5 +130,21 @@ Robert Jolly
 
 <a href="https://cottonbureau.com/products/accessibility-pride" alt="Buy Now">
   <img src="https://cl.ly/5de77e648e69/Image%2525202019-08-31%252520at%2525201.43.33%252520PM.png" width="200" height="200" />
+</a>
+
+## Progression Over Perfection
+
+Jeremy Loyd
+
+<a href="https://cottonbureau.com/products/progression-over-perfection" alt="Buy Now">
+  <img src="https://cl.ly/4a5825df0ad1/Image%2525202019-09-19%252520at%2525209.03.21%252520PM.png" width="200" height="200" />
+</a>
+
+## Action Cures Fear
+
+Jozef Arpa
+
+<a href="https://cottonbureau.com/products/action-cures-fear" alt="Buy Now">
+  <img src="https://cl.ly/52f5920befb2/Image%2525202019-09-19%252520at%2525209.00.09%252520PM.png" width="200" height="200" />
 </a>
 
