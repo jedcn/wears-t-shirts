@@ -56,3 +56,14 @@ task :build do
 end
 
 task default: :build
+
+desc 'Temporary task to get local version of images (in CloudApp)'
+task :download_images do
+  tshirts.each do |tshirt|
+    tshirt_dir_name = tshirt['name'].parameterize
+    puts tshirt_dir_name
+    FileUtils.cd("t/#{tshirt_dir_name}") do
+      sh "wget #{tshirt['image_url']} -O #{tshirt_dir_name}.png"
+    end
+  end
+end
