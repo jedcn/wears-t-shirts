@@ -1,6 +1,6 @@
 # IRL Winning
 
-<img src="irl-winning.png" width="200" height="200" />
+<img src="irl-winning.png" />
 
 ## Author
 

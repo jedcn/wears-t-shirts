@@ -1,6 +1,6 @@
 # Pride over prejudice
 
-<img src="pride-over-prejudice.png" width="200" height="200" />
+<img src="pride-over-prejudice.png" />
 
 ## Author
 

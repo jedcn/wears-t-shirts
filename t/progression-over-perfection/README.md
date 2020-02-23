@@ -1,6 +1,6 @@
 # Progression Over Perfection
 
-<img src="progression-over-perfection.png" width="200" height="200" />
+<img src="progression-over-perfection.png" />
 
 ## Author
 
