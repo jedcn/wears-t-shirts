@@ -1,6 +1,6 @@
 # Feminist
 
-<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3H2l2t31133M2g3e470b/Image%202018-08-29%20at%208.38.41%20AM.png" width="200" height="200" />
+<img src="./feminist.png" width="200" height="200" />
 
 ## Author
 

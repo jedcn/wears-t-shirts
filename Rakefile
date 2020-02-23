@@ -3,12 +3,15 @@ require 'erb'
 require 'fileutils'
 require 'json'
 
+def tshirt_slug(tshirt)
+  tshirt['name'].parameterize
+end
+
 def tshirt_path(tshirt, file)
-  tshirt_slug = tshirt['name'].parameterize
   if file
-    "t/#{tshirt_slug}/#{file}"
+    "t/#{tshirt_slug(tshirt)}/#{file}"
   else
-    "t/#{tshirt_slug}"
+    "t/#{tshirt_slug(tshirt)}"
   end
 end
 
@@ -17,6 +20,7 @@ def parse_and_process_json(file_name)
   parsed_json = JSON.parse(file_contents)
   parsed_json['tshirts'].each do |tshirt|
     tshirt['readme_href'] = tshirt_path(tshirt, 'README.md')
+    tshirt['image_url'] = "./#{tshirt_slug(tshirt)}.png"
   end
   parsed_json
 end
@@ -56,14 +60,3 @@ task :build do
 end
 
 task default: :build
-
-desc 'Temporary task to get local version of images (in CloudApp)'
-task :download_images do
-  tshirts.each do |tshirt|
-    tshirt_dir_name = tshirt['name'].parameterize
-    puts tshirt_dir_name
-    FileUtils.cd("t/#{tshirt_dir_name}") do
-      sh "wget #{tshirt['image_url']} -O #{tshirt_dir_name}.png"
-    end
-  end
-end

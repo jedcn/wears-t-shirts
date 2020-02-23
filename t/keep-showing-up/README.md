@@ -1,6 +1,6 @@
 # Keep Showing Up
 
-<img src="https://cl.ly/cc9a484a8efb/Image%2525202018-12-27%252520at%2525208.06.28%252520PM.png" width="200" height="200" />
+<img src="./keep-showing-up.png" width="200" height="200" />
 
 ## Author
 
