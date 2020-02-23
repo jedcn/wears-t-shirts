@@ -27,23 +27,23 @@ def write_main_readme(tshirts)
   end
 end
 
-# def create_tshirt_dir_and_readme(tshirt)
-#   tshirt_dir_name = tshirt['name'].parameterize
-#   puts tshirt_dir_name
-#   FileUtils.mkdir_p(tshirt_dir_name)
-#   tshirt_readme_erb = create_erb_from_file('templates/T-SHIRT_README.md.erb')
-#   rendered_template = tshirt_readme_erb.result(binding)
-#   File.open("#{tshirt_dir_name}/README.md", 'w') do |file|
-#     file.write(rendered_template)
-#   end
-# end
+def create_tshirt_dir_and_readme(tshirt)
+  tshirt_dir_name = tshirt['name'].parameterize
+  puts tshirt_dir_name
+  FileUtils.mkdir_p(tshirt_dir_name)
+  tshirt_readme_erb = create_erb_from_file('templates/T-SHIRT_README.md.erb')
+  rendered_template = tshirt_readme_erb.result(binding)
+  File.open("#{tshirt_dir_name}/README.md", 'w') do |file|
+    file.write(rendered_template)
+  end
+end
 
 desc 'Create main README and READMEs for each shirt'
 task :build do
   write_main_readme(tshirts)
-  # tshirts.each do |tshirt|
-  #   create_tshirt_dir_and_readme(tshirt)
-  # end
+  tshirts.each do |tshirt|
+    create_tshirt_dir_and_readme(tshirt)
+  end
 end
 
 task default: :build
