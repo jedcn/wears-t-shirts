@@ -25,6 +25,8 @@ one I am wearing is visible if I am speaking publicly or interviewing someone.
 * <a href="t/accessibility-pride/README.md" alt="More about Accessibility Pride">Accessibility Pride</a> by Robert Jolly
 * <a href="t/progression-over-perfection/README.md" alt="More about Progression Over Perfection">Progression Over Perfection</a> by Jeremy Loyd
 * <a href="t/action-cures-fear/README.md" alt="More about Action Cures Fear">Action Cures Fear</a> by Jozef Arpa
+* <a href="t/feminist-af/README.md" alt="More about Feminist AF">Feminist AF</a> by Taylor Carr
+* <a href="t/you-must-be-the-change/README.md" alt="More about You Must Be The Change">You Must Be The Change</a> by Erika Borrat
 
 ## Want to catch up?
 
