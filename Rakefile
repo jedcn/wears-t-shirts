@@ -3,11 +3,20 @@ require 'erb'
 require 'fileutils'
 require 'json'
 
+def tshirt_path(tshirt, file)
+  tshirt_slug = tshirt['name'].parameterize
+  if file
+    "t/#{tshirt_slug}/#{file}"
+  else
+    "t/#{tshirt_slug}"
+  end
+end
+
 def parse_and_process_json(file_name)
   file_contents = File.read(file_name)
   parsed_json = JSON.parse(file_contents)
   parsed_json['tshirts'].each do |tshirt|
-    tshirt['readme_href'] = "./#{tshirt['name'].parameterize}/README.md"
+    tshirt['readme_href'] = tshirt_path(tshirt, 'README.md')
   end
   parsed_json
 end
@@ -30,10 +39,10 @@ end
 def create_tshirt_dir_and_readme(tshirt)
   tshirt_dir_name = tshirt['name'].parameterize
   puts tshirt_dir_name
-  FileUtils.mkdir_p(tshirt_dir_name)
+  FileUtils.mkdir_p("t/#{tshirt_dir_name}")
   tshirt_readme_erb = create_erb_from_file('templates/T-SHIRT_README.md.erb')
   rendered_template = tshirt_readme_erb.result(binding)
-  File.open("#{tshirt_dir_name}/README.md", 'w') do |file|
+  File.open("t/#{tshirt_dir_name}/README.md", 'w') do |file|
     file.write(rendered_template)
   end
 end
