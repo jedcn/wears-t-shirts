@@ -1,6 +1,6 @@
 # Feminist AF
 
-<img src="feminist-af.png" width="200" height="200" />
+<img src="feminist-af.png" />
 
 ## Author
 

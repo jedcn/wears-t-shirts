@@ -1,6 +1,6 @@
 # You Must Be The Change
 
-<img src="you-must-be-the-change.png" width="200" height="200" />
+<img src="you-must-be-the-change.png" />
 
 ## Author
 
