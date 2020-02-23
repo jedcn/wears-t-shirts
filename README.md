@@ -25,3 +25,12 @@ one I am wearing is visible if I am speaking publicly or interviewing someone.
 * <a href="t/accessibility-pride/README.md" alt="More about Accessibility Pride">Accessibility Pride</a> by Robert Jolly
 * <a href="t/progression-over-perfection/README.md" alt="More about Progression Over Perfection">Progression Over Perfection</a> by Jeremy Loyd
 * <a href="t/action-cures-fear/README.md" alt="More about Action Cures Fear">Action Cures Fear</a> by Jozef Arpa
+
+## Want to catch up?
+
+If you like a t-shirt, want to talk about a t-shirt, or have a suggestion for a
+new t-shirt-- you can reach me at hi@jedcn.com.
+
+Be well. Help others be well.
+
+- Jed
