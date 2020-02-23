@@ -6,6 +6,10 @@
 
 Erica Westerfield
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/more-than-ever-be-kind" alt="Buy Now">Find it here</a>

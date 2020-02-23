@@ -6,6 +6,10 @@
 
 Kristen Ware
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/i-believe-in-you-white" alt="Buy Now">Find it here</a>

@@ -6,6 +6,10 @@
 
 Human Rights Campaign
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://shop.hrc.org/clothing/t-shirts/equality-t-shirt.html" alt="Buy Now">Find it here</a>

@@ -6,6 +6,10 @@
 
 Clarissa Hernandez
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/when-they-go-low" alt="Buy Now">Find it here</a>

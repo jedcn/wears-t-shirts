@@ -6,6 +6,10 @@
 
 Charles Dew
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/keep-showing-up" alt="Buy Now">Find it here</a>

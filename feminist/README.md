@@ -6,6 +6,10 @@
 
 Lindsay Eyth of Eythink
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/big-f-little-f" alt="Buy Now">Find it here</a>

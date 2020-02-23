@@ -6,6 +6,10 @@
 
 Human Rights Campaign
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://shop.hrc.org/pride-over-prejudice-t-shirt-1.html" alt="Buy Now">Find it here</a>

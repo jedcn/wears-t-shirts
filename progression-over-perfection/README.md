@@ -6,6 +6,10 @@
 
 Jeremy Loyd
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/progression-over-perfection" alt="Buy Now">Find it here</a>

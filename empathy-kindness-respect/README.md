@@ -6,6 +6,10 @@
 
 Sara McNally
 
+## Author's Description
+
+
+
 ## Want your own?
 
 <a href="https://cottonbureau.com/products/empathy-kindness-respect" alt="Buy Now">Find it here</a>
