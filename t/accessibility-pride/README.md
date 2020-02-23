@@ -1,6 +1,6 @@
 # Accessibility Pride
 
-<img src="./accessibility-pride.png" width="200" height="200" />
+<img src="accessibility-pride.png" width="200" height="200" />
 
 ## Author
 

@@ -1,6 +1,6 @@
 # Made by Immigrants
 
-<img src="./made-by-immigrants.png" width="200" height="200" />
+<img src="made-by-immigrants.png" width="200" height="200" />
 
 ## Author
 

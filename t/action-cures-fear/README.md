@@ -1,6 +1,6 @@
 # Action Cures Fear
 
-<img src="./action-cures-fear.png" width="200" height="200" />
+<img src="action-cures-fear.png" width="200" height="200" />
 
 ## Author
 

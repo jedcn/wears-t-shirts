@@ -1,6 +1,6 @@
 # Empathy, kindness, respect
 
-<img src="./empathy-kindness-respect.png" width="200" height="200" />
+<img src="empathy-kindness-respect.png" width="200" height="200" />
 
 ## Author
 

@@ -20,7 +20,7 @@ def parse_and_process_json(file_name)
   parsed_json = JSON.parse(file_contents)
   parsed_json['tshirts'].each do |tshirt|
     tshirt['readme_href'] = tshirt_path(tshirt, 'README.md')
-    tshirt['image_url'] = "./#{tshirt_slug(tshirt)}.png"
+    tshirt['image_url'] = "#{tshirt_slug(tshirt)}.png"
   end
   parsed_json
 end

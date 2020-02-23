@@ -1,6 +1,6 @@
 # i believe in you
 
-<img src="./i-believe-in-you.png" width="200" height="200" />
+<img src="i-believe-in-you.png" width="200" height="200" />
 
 ## Author
 

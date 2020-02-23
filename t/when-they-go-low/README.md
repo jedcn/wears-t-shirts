@@ -1,6 +1,6 @@
 # When They Go Low...
 
-<img src="./when-they-go-low.png" width="200" height="200" />
+<img src="when-they-go-low.png" width="200" height="200" />
 
 ## Author
 
