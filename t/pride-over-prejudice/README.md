@@ -1,0 +1,15 @@
+# Pride over prejudice
+
+<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/0X0Y0I1H3O0w1Y3r1E0v/Image%202018-08-29%20at%208.52.48%20AM.png" width="200" height="200" />
+
+## Author
+
+Human Rights Campaign
+
+## Author's Description
+
+The Human Rights Campaign represents a force of more than 3 million members and supporters nationwide. As the largest national lesbian, gay, bisexual, transgender and queer civil rights organization, HRC envisions a world where LGBTQ people are ensured of their basic equal rights, and can be open, honest and safe at home, at work and in the community.
+
+## Want your own?
+
+<a href="https://shop.hrc.org/pride-over-prejudice-t-shirt-1.html" alt="Buy Now">Find it here</a>
