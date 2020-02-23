@@ -8,7 +8,7 @@ Jeremy Loyd
 
 ## Author's Description
 
-
+Perfection is the goal, but making progress is where the good stuff happens.
 
 ## Want your own?
 

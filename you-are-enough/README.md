@@ -8,7 +8,7 @@ Tara Rappleye
 
 ## Author's Description
 
-
+Shame. Guilt. Anxiety. It is so easy to feel you aren't good enough. Sometimes we need a simple and well designed reminder :)
 
 ## Want your own?
 

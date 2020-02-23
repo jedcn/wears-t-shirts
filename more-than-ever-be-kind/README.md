@@ -8,7 +8,7 @@ Erica Westerfield
 
 ## Author's Description
 
-
+Sometimes, we all need a reminder to be kind to one another.
 
 ## Want your own?
 

@@ -8,7 +8,7 @@ Lindsay Eyth of Eythink
 
 ## Author's Description
 
-
+'Feminist: a person who believes in the social, political, and economic equality of the sexes.' — Chimamanda Ngozi Adichie
 
 ## Want your own?
 

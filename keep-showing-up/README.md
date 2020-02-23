@@ -8,7 +8,7 @@ Charles Dew
 
 ## Author's Description
 
-
+Life gets tough. Keep showing up if you want to get tough too.
 
 ## Want your own?
 

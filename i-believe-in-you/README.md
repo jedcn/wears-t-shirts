@@ -8,7 +8,7 @@ Kristen Ware
 
 ## Author's Description
 
-
+Give some hope to the people you meet.
 
 ## Want your own?
 
