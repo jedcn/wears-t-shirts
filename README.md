@@ -5,146 +5,23 @@
 I wear one of these t-shirts each working day. I think of them as similar to
 stickers on a laptop.
 
-They are commonly under a collared shirt, but I will make sure the one I am
-wearing is visible if I am speaking publicly or interviewing someone.
+They are commonly under a collared shirt or a sweater, but I will make sure the
+one I am wearing is visible if I am speaking publicly or interviewing someone.
 
 ## Which t-shirts?
 
-* Empathy, kindness, respect
-* Feminist
-* Pride over prejudice
-* Made by Immigrants
-* You are enough
-* More than ever, be kind
-* Project Include
-* Equality Logo
-* Keep Showing Up
-* When They Go Low...
-* IRL Winning
-* i believe in you
-* Accessibility Pride
-* Progression Over Perfection
-* Action Cures Fear
-
----
-
-## Empathy, kindness, respect
-
-Sara McNally
-
-<a href="https://cottonbureau.com/products/empathy-kindness-respect" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/200T1r0W2B1o1e091w3D/Image%202018-08-29%20at%208.31.50%20AM.png" width="200" height="200" />
-</a>
-
-## Feminist
-
-Lindsay Eyth of Eythink
-
-<a href="https://cottonbureau.com/products/big-f-little-f" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3H2l2t31133M2g3e470b/Image%202018-08-29%20at%208.38.41%20AM.png" width="200" height="200" />
-</a>
-
-## Pride over prejudice
-
-Human Rights Campaign
-
-<a href="https://shop.hrc.org/pride-over-prejudice-t-shirt-1.html" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/0X0Y0I1H3O0w1Y3r1E0v/Image%202018-08-29%20at%208.52.48%20AM.png" width="200" height="200" />
-</a>
-
-## Made by Immigrants
-
-Mule Design
-
-<a href="https://cottonbureau.com/products/made-by-immigrants" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/1F230o2r3C452K320X3l/Image%202018-08-29%20at%208.40.08%20AM.png" width="200" height="200" />
-</a>
-
-## You are enough
-
-Tara Rappleye
-
-<a href="https://cottonbureau.com/products/you-are-enough" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2i0z1Y0v0j172R3m1L0Z/Image%202018-08-29%20at%208.37.16%20AM.png" width="200" height="200" />
-</a>
-
-## More than ever, be kind
-
-Erica Westerfield
-
-<a href="https://cottonbureau.com/products/more-than-ever-be-kind" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3o3F1Y2U2W1C2x0d2N0o/Image%202018-08-29%20at%208.33.13%20AM.png" width="200" height="200" />
-</a>
-
-## Project Include
-
-Project Include
-
-<a href="https://cottonbureau.com/products/project-include-the-question-tee" alt="Buy Now">
-  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2p1U2G2I3O2k3d3q400Y/Image%202018-08-29%20at%208.32.40%20AM.png" width="200" height="200" />
-</a>
-
-## Equality Logo
-
-Human Rights Campaign
-
-<a href="https://shop.hrc.org/clothing/t-shirts/equality-t-shirt.html" alt="Buy Now">
-  <img src="https://cl.ly/d823384c9d4a/Image%2525202018-12-15%252520at%2525208.10.54%252520PM.png" width="200" height="200" />
-</a>
-
-## Keep Showing Up
-
-Charles Dew
-
-<a href="https://cottonbureau.com/products/keep-showing-up" alt="Buy Now">
-  <img src="https://cl.ly/cc9a484a8efb/Image%2525202018-12-27%252520at%2525208.06.28%252520PM.png" width="200" height="200" />
-</a>
-
-## When They Go Low...
-
-Clarissa Hernandez
-
-<a href="https://cottonbureau.com/products/when-they-go-low" alt="Buy Now">
-  <img src="https://cl.ly/de76ecee6cec/Image%2525202018-12-27%252520at%2525208.04.52%252520PM.png" width="200" height="200" />
-</a>
-
-## IRL Winning
-
-Shannon Miwa
-
-<a href="https://cottonbureau.com/products/irl-winning" alt="Buy Now">
-  <img src="https://cl.ly/43a9c3c94db5/Image%2525202018-12-27%252520at%2525208.09.30%252520PM.png" width="200" height="200" />
-</a>
-
-## i believe in you
-
-Kristen Ware
-
-<a href="https://cottonbureau.com/products/i-believe-in-you-white" alt="Buy Now">
-  <img src="https://cl.ly/dfba6bc0c1ba/%255B4b0a1dda56c03c5baaf39d1326d722c7%255D_t-shirt-i-believe-in-you.png" width="200" height="200" />
-</a>
-
-## Accessibility Pride
-
-Robert Jolly
-
-<a href="https://cottonbureau.com/products/accessibility-pride" alt="Buy Now">
-  <img src="https://cl.ly/5de77e648e69/Image%2525202019-08-31%252520at%2525201.43.33%252520PM.png" width="200" height="200" />
-</a>
-
-## Progression Over Perfection
-
-Jeremy Loyd
-
-<a href="https://cottonbureau.com/products/progression-over-perfection" alt="Buy Now">
-  <img src="https://cl.ly/4a5825df0ad1/Image%2525202019-09-19%252520at%2525209.03.21%252520PM.png" width="200" height="200" />
-</a>
-
-## Action Cures Fear
-
-Jozef Arpa
-
-<a href="https://cottonbureau.com/products/action-cures-fear" alt="Buy Now">
-  <img src="https://cl.ly/52f5920befb2/Image%2525202019-09-19%252520at%2525209.00.09%252520PM.png" width="200" height="200" />
-</a>
-
+* <a href="./empathy-kindness-respect/README.md" alt="More about Empathy, kindness, respect">Empathy, kindness, respect</a> by Sara McNally
+* <a href="./feminist/README.md" alt="More about Feminist">Feminist</a> by Lindsay Eyth of Eythink
+* <a href="./pride-over-prejudice/README.md" alt="More about Pride over prejudice">Pride over prejudice</a> by Human Rights Campaign
+* <a href="./made-by-immigrants/README.md" alt="More about Made by Immigrants">Made by Immigrants</a> by Mule Design
+* <a href="./you-are-enough/README.md" alt="More about You are enough">You are enough</a> by Tara Rappleye
+* <a href="./more-than-ever-be-kind/README.md" alt="More about More than ever, be kind">More than ever, be kind</a> by Erica Westerfield
+* <a href="./project-include/README.md" alt="More about Project Include">Project Include</a> by Project Include
+* <a href="./equality-logo/README.md" alt="More about Equality Logo">Equality Logo</a> by Human Rights Campaign
+* <a href="./keep-showing-up/README.md" alt="More about Keep Showing Up">Keep Showing Up</a> by Charles Dew
+* <a href="./when-they-go-low/README.md" alt="More about When They Go Low...">When They Go Low...</a> by Clarissa Hernandez
+* <a href="./irl-winning/README.md" alt="More about IRL Winning">IRL Winning</a> by Shannon Miwa
+* <a href="./i-believe-in-you/README.md" alt="More about i believe in you">i believe in you</a> by Kristen Ware
+* <a href="./accessibility-pride/README.md" alt="More about Accessibility Pride">Accessibility Pride</a> by Robert Jolly
+* <a href="./progression-over-perfection/README.md" alt="More about Progression Over Perfection">Progression Over Perfection</a> by Jeremy Loyd
+* <a href="./action-cures-fear/README.md" alt="More about Action Cures Fear">Action Cures Fear</a> by Jozef Arpa

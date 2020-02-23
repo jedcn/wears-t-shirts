@@ -1,0 +1,15 @@
+# wears-t-shirts
+
+## What even is this?
+
+I wear one of these t-shirts each working day. I think of them as similar to
+stickers on a laptop.
+
+They are commonly under a collared shirt or a sweater, but I will make sure the
+one I am wearing is visible if I am speaking publicly or interviewing someone.
+
+## Which t-shirts?
+
+<% tshirts.each do |tshirt| -%>
+* <a href="<%= tshirt['readme_href'] %>" alt="More about <%= tshirt['name'] %>"><%= tshirt['name'] %></a> by <%= tshirt['creator'] %>
+<% end -%>
