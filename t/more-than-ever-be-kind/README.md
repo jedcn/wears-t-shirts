@@ -1,6 +1,6 @@
 # More than ever, be kind
 
-<img src="more-than-ever-be-kind.png" width="200" height="200" />
+<img src="more-than-ever-be-kind.png" />
 
 ## Author
 

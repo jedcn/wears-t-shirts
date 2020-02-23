@@ -1,6 +1,6 @@
 # Keep Showing Up
 
-<img src="keep-showing-up.png" width="200" height="200" />
+<img src="keep-showing-up.png" />
 
 ## Author
 

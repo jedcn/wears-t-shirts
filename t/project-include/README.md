@@ -1,6 +1,6 @@
 # Project Include
 
-<img src="project-include.png" width="200" height="200" />
+<img src="project-include.png" />
 
 ## Author
 

@@ -59,4 +59,22 @@ task :build do
   end
 end
 
+desc 'Create thumbnails'
+task :create_thumbnails do
+  tshirts.each do |tshirt|
+    tshirt_dir_name = tshirt_slug(tshirt)
+    puts tshirt_dir_name
+    initial_file = "#{tshirt_dir_name}.png"
+    original_file = "#{tshirt_dir_name}-original.png"
+    FileUtils.cd("t/#{tshirt_dir_name}") do
+      unless File.exist?(original_file)
+        # Backup initial file into original file
+        sh "cp #{initial_file} #{original_file}"
+        # Make initial file smaller
+        sh "mogrify -format png -thumbnail 500x500 #{initial_file}"
+      end
+    end
+  end
+end
+
 task default: :build

@@ -1,6 +1,6 @@
 # Feminist
 
-<img src="feminist.png" width="200" height="200" />
+<img src="feminist.png" />
 
 ## Author
 

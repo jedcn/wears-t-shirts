@@ -1,6 +1,6 @@
 # You are enough
 
-<img src="you-are-enough.png" width="200" height="200" />
+<img src="you-are-enough.png" />
 
 ## Author
 

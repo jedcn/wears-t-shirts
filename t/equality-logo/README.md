@@ -1,6 +1,6 @@
 # Equality Logo
 
-<img src="equality-logo.png" width="200" height="200" />
+<img src="equality-logo.png" />
 
 ## Author
 
