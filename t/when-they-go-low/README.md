@@ -8,7 +8,9 @@ Clarissa Hernandez
 
 ## Author's Description
 
-May we all go high! Words of wisdom from the greatest First Lady in the history of ever. All designer proceeds will be donated to The Obama Foundation.
+May we all go high! Words of wisdom from the greatest First Lady in the history of ever.
+
+All designer proceeds will be donated to The Obama Foundation.
 
 ## Want your own?
 
