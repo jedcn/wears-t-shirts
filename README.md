@@ -33,4 +33,4 @@ new t-shirt-- you can reach me at hi@jedcn.com.
 
 Be well. Help others be well.
 
-- Jed
+— Jed
