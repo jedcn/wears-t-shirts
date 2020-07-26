@@ -27,6 +27,7 @@ one I am wearing is visible if I am speaking publicly or interviewing someone.
 * <a href="t/action-cures-fear/README.md" alt="More about Action Cures Fear">Action Cures Fear</a> by Jozef Arpa
 * <a href="t/feminist-af/README.md" alt="More about Feminist AF">Feminist AF</a> by Taylor Carr
 * <a href="t/you-must-be-the-change/README.md" alt="More about You Must Be The Change">You Must Be The Change</a> by Erika Borrat
+* <a href="t/black-lives-matter/README.md" alt="More about Black Lives Matter">Black Lives Matter</a> by Black Lives Matter
 
 ## Want to catch up?
 
